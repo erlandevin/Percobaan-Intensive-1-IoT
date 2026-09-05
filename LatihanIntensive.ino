@@ -1,5 +1,6 @@
 #include <ESP32Servo.h>
 
+//commit 1
 // =====================
 // SERVO
 // =====================
@@ -12,7 +13,7 @@ Servo servoUltra;
 const int servoRainPin = 26;
 const int servoUltraPin = 25;
 
-const int rainSensorPin = 33;
+const int rainSensorPin = 33;c
 
 const int trigPin = 14;
 const int echoPin = 27;
